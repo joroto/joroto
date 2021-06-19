@@ -1,6 +1,6 @@
 ### Hi there.
 
-<img align="right" draggable=”false” alt="Java" width="175px" src="https://i.imgur.com/4i3Aw7c.gif" 
+<img align="right" draggable=”false” alt="Java" width="175px" src="https://media.tenor.com/images/2f071cab07e5ddac7224f1ff3d8cccf2/tenor.gif" 
 />
 
 ### I'm Georgi, currently a first year student @ SoftUni and an aspiring software developer.
