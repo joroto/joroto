@@ -1,5 +1,8 @@
 ### Hi there.
 
+<img align="right" draggable=”false” alt="Java" width="37px" src="https://i.kym-cdn.com/photos/images/original/001/472/527/adc.gif" 
+/>
+
 ### I'm Georgi, currently a first year student @ SoftUni and an aspiring software developer.
 
 <br />
