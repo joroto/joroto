@@ -1,4 +1,4 @@
-<p font-size: 40px> Hi there! </p>
+<p style="font-size:10vw"> Hi there! </p>
 
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
