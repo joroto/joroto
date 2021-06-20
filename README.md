@@ -3,8 +3,7 @@
 
 ### Hi there!
 
-<b> I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
-</b>
+### I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
 
 <br />
 Languages and tools I use every day:
