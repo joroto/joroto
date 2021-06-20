@@ -5,7 +5,7 @@
 Hi there.
 <br />
 
-### I'm Georgi, currently a first year student at SoftUni and an aspiring software developer.
+### I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
 
 
 <br />
