@@ -1,6 +1,7 @@
 <h1>
 Hi there!
 <br />
+</h1>
 
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
