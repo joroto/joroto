@@ -2,13 +2,11 @@
 />
 
 <h1>
-Hi there.
+Hi there!
 <br />
 
 ### I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
 
-
-<br />
 
 ### Languages and tools I use every day:
 
