@@ -2,8 +2,6 @@
 <img align = "right" pointer-events: none draggable=”false” alt="Java" width="420px" src="https://i.imgur.com/CGbKo9y.gif" 
 />
 
-<br />
-
 ### I'm Georgi, currently a first year student at SoftUni and an aspiring software developer.
 
 <br />
