@@ -1,6 +1,5 @@
-### Hi there.
-
-<img pointer-events: none draggable=”false” alt="Java" width="420px" src="https://i.imgur.com/CGbKo9y.gif" 
+### Hi there. 
+<img align = "right" pointer-events: none draggable=”false” alt="Java" width="420px" src="https://i.imgur.com/CGbKo9y.gif" 
 />
 
 <br />
