@@ -2,7 +2,7 @@
 
 ### I'm Georgi, currently a first year student at SoftUni and an aspiring software developer.
 
-<img align="right" pointer-events: none draggable=”false” alt="Java" width="50px" src="https://i.imgur.com/STdf9lE.gif" 
+<img align="right" pointer-events: none draggable=”false” alt="Java" width="250px" src="https://i.imgur.com/STdf9lE.gif" 
 />
 
 
