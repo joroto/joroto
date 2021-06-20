@@ -1,6 +1,4 @@
-<b><big>
-Hi there!
-</big>></b>
+<p font-size: 40px> Hi there! </p>
 
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
