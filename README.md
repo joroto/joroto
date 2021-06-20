@@ -1,9 +1,13 @@
-### Hi there!
+p {
+  font-size: 14px;
+}
+
+<p> Hi there! </p>
 
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
 
-<b font-size:30px> I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
+<b> I am Georgi, currently a first year student at SoftUni and an aspiring software developer.
 </b>
 
 <br />
