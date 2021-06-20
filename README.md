@@ -1,4 +1,4 @@
-<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "80px" src="https://i.imgur.com/CGbKo9y.gif" 
+<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "40px" src="https://i.imgur.com/CGbKo9y.gif" 
 />
 
 <br />
