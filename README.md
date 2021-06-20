@@ -1,4 +1,4 @@
-<h1 style="color:red;font-size:40px;">Hi there!</h1>
+<h1 style=color:red>Hi there!</h1>
 
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
