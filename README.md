@@ -1,7 +1,7 @@
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
 
-<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="90px" src="https://media.giphy.com/media/qQzlqc3Y08LZOzQYm2/giphy.gif" 
+<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="90px" src="https://i.giphy.com/media/qQzlqc3Y08LZOzQYm2/giphy.mp4" 
 />
 
 ### Hi there!
