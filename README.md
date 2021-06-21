@@ -1,7 +1,7 @@
 <img align = "center" pointer-events: none draggable=”false” alt="Anim" width="900px" height = "70px" src="https://i.imgur.com/j5Y13LK.gif" 
 />
 
-<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="90px" src="https://media.tenor.com/images/5fbf73bab16e101fe36a141e73bd0fc4/tenor.gif" 
+<img align = "center" pointer-events: none draggable=”false” alt="Anim" width="200px" src="https://media.tenor.com/images/5fbf73bab16e101fe36a141e73bd0fc4/tenor.gif" 
 />
 
 ### Hi there!
