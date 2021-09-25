@@ -5,10 +5,9 @@
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 <br>
-
+<br>
 <br>
 Languages and tools I use every day:
-<br>
 <br>
 <br>
 
