@@ -21,5 +21,5 @@ Languages and tools I use every day:
 />
 <img align="left" pointer-events: none draggable=”false” alt="ArchLinux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png"
 />
-<img align="left" pointer-events: none draggable=”false” alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png"
+<img align="left" pointer-events: none draggable=”false” alt="Bash" width="40px" src="https://i.imgur.com/IctxH7T.png"
 />
