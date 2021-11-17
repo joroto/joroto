@@ -23,9 +23,3 @@ Languages and tools I use every day:
 />
 <img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png"
 />
-<img align="left" alt="HTML" width="40px" src="https://i.imgur.com/FSElFpE.png"
-/>
-<img align="left" alt="CSS" width="40px" src="https://i.imgur.com/vbssNFj.png"
-/>
-<img align="left" alt="JS" width="40px" src="https://i.imgur.com/0pgacpD.png"
-/>
